@@ -11,10 +11,7 @@ Responsive design for various devices.
 Installation
 Clone this repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/yourusername/todo-list.git
-Navigate to the project directory:
+
 
 bash
 Copy code
